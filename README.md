@@ -15,7 +15,7 @@ I'm determined to provide users a great UI. And I'm convinced that this goal can
 
 ## What i'm working on now...
 
-I am taking part as Ssr Web UI Developer at [Intive](https://www.intive.com/), building [Intelligize](https://www.intelligize.com/products/intelligize/). An app for data analysis on public legal documents.
+I am taking part as a Web UI Developer at [Intive](https://www.intive.com/), building [Intelligize](https://www.intelligize.com/products/intelligize/). An app for data analysis on public legal documents.
 
 For building solid and scalable products at a fast pace, i believe that testing is the only way to go. That's why over 90% of the code i write is covered by tests. On React.js, i usually write unit tests with **Jest** and **Enzyme**.
 For UI testing, we use **Storybook** with all the reusable components, hosted on a external monorepo.
